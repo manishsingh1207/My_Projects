@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\windows\Desktop\EMS_Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2995673973.index
+3955581013.index
+2708141638.index
+261316136.index
+1894625343.index
